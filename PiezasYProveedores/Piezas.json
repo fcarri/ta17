@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "635ad95244b0ccb4b6f6aab2"
+  },
+  "Codigo": 1
+},{
+  "_id": {
+    "$oid": "635ad95244b0ccb4b6f6aab3"
+  },
+  "Nombre": "Codo"
+},{
+  "_id": {
+    "$oid": "635ad97244b0ccb4b6f6aab4"
+  },
+  "Codigo": 2
+},{
+  "_id": {
+    "$oid": "635ad97244b0ccb4b6f6aab5"
+  },
+  "Nombre": "Grifo"
+}]

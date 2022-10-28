@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "635ad9cb44b0ccb4b6f6aab6"
+  },
+  "CodigoPieza": 1
+},{
+  "_id": {
+    "$oid": "635ad9cb44b0ccb4b6f6aab7"
+  },
+  "idProveedor": "1A"
+},{
+  "_id": {
+    "$oid": "635ad9cb44b0ccb4b6f6aab8"
+  },
+  "Precio": 200
+},{
+  "_id": {
+    "$oid": "635ad9e544b0ccb4b6f6aab9"
+  },
+  "CodigoPieza": 2
+},{
+  "_id": {
+    "$oid": "635ad9e544b0ccb4b6f6aaba"
+  },
+  "idProveedor": "1B"
+},{
+  "_id": {
+    "$oid": "635ad9e544b0ccb4b6f6aabb"
+  },
+  "Precio": 100
+}]

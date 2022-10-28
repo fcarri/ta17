@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "635c11b15d11c6eb5b07cf5f"
+  },
+  "DNI": "39987123A"
+},{
+  "_id": {
+    "$oid": "635c11b15d11c6eb5b07cf60"
+  },
+  "NomApels": "Cristina Cifuentes"
+},{
+  "_id": {
+    "$oid": "635c121e5d11c6eb5b07cf61"
+  },
+  "DNI": "39945123A"
+},{
+  "_id": {
+    "$oid": "635c121e5d11c6eb5b07cf62"
+  },
+  "NomApels": "Alfredo Wert"
+}]

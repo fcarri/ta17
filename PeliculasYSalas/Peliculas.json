@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "635ad36444b0ccb4b6f6aaa0"
+  },
+  "Codigo": 1
+},{
+  "_id": {
+    "$oid": "635ad36444b0ccb4b6f6aaa1"
+  },
+  "Nombre": "Rama"
+},{
+  "_id": {
+    "$oid": "635ad36444b0ccb4b6f6aaa2"
+  },
+  "CalificacionEdad": 14
+},{
+  "_id": {
+    "$oid": "635ad38944b0ccb4b6f6aaa3"
+  },
+  "Codigo": 2
+},{
+  "_id": {
+    "$oid": "635ad38944b0ccb4b6f6aaa4"
+  },
+  "Nombre": "Dune"
+},{
+  "_id": {
+    "$oid": "635ad38944b0ccb4b6f6aaa5"
+  },
+  "CalificacionEdad": 14
+}]

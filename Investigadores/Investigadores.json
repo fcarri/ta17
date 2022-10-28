@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "635c039c5d11c6eb5b07cf4b"
+  },
+  "DNI": "39777999A"
+},{
+  "_id": {
+    "$oid": "635c039c5d11c6eb5b07cf4c"
+  },
+  "NomApels": "Jaume Martí"
+},{
+  "_id": {
+    "$oid": "635c039c5d11c6eb5b07cf4d"
+  },
+  "Facultad": 1
+},{
+  "_id": {
+    "$oid": "635c03cc5d11c6eb5b07cf4e"
+  },
+  "DNI": "39457999A"
+},{
+  "_id": {
+    "$oid": "635c03cc5d11c6eb5b07cf4f"
+  },
+  "NomApels": "Alberto Ruiz"
+},{
+  "_id": {
+    "$oid": "635c03cc5d11c6eb5b07cf50"
+  },
+  "Facultad": 2
+}]

@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "635ad0a344b0ccb4b6f6aa8c"
+  },
+  "Codigo": 1
+},{
+  "_id": {
+    "$oid": "635ad0a344b0ccb4b6f6aa8d"
+  },
+  "Lugar": "Barcelona"
+},{
+  "_id": {
+    "$oid": "635ad0a344b0ccb4b6f6aa8e"
+  },
+  "Capacidad": 3
+},{
+  "_id": {
+    "$oid": "635ad0c144b0ccb4b6f6aa8f"
+  },
+  "Codigo": 2
+},{
+  "_id": {
+    "$oid": "635ad0c144b0ccb4b6f6aa90"
+  },
+  "Lugar": "Bonn"
+},{
+  "_id": {
+    "$oid": "635ad0c144b0ccb4b6f6aa91"
+  },
+  "Capacidad": 2
+}]

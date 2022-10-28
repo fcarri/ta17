@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "635c12735d11c6eb5b07cf63"
+  },
+  "Cientifico": "Alfredo Wert"
+},{
+  "_id": {
+    "$oid": "635c12735d11c6eb5b07cf64"
+  },
+  "Proyecto": "A"
+},{
+  "_id": {
+    "$oid": "635c12875d11c6eb5b07cf65"
+  },
+  "Cientifico": "Alfredo Wert"
+},{
+  "_id": {
+    "$oid": "635c12875d11c6eb5b07cf66"
+  },
+  "Proyecto": "B"
+}]

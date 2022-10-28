@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "635ac68244b0ccb4b6f6aa85"
+  },
+  "Codigo": 1
+},{
+  "_id": {
+    "$oid": "635ac69644b0ccb4b6f6aa86"
+  },
+  "nombre": "A"
+},{
+  "_id": {
+    "$oid": "635ac6ac44b0ccb4b6f6aa87"
+  },
+  "Presupuesto": 120000
+},{
+  "_id": {
+    "$oid": "635acc8a44b0ccb4b6f6aa88"
+  },
+  "Codigo": 2
+},{
+  "_id": {
+    "$oid": "635acc9244b0ccb4b6f6aa89"
+  },
+  "nombre": "B"
+},{
+  "_id": {
+    "$oid": "635acc9944b0ccb4b6f6aa8a"
+  },
+  "Presupuesto": 100000
+}]

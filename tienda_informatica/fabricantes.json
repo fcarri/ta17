@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "63567d582c7ea41c1d2a767b"
+  },
+  "Codigo": 1,
+  "Nombre": "IBM"
+},{
+  "_id": {
+    "$oid": "635a8cafaf10dc7bcc4fc43d"
+  },
+  "Codigo": "2",
+  "Nombre": "Mac"
+},{
+  "_id": {
+    "$oid": "635a8cbcaf10dc7bcc4fc43e"
+  },
+  "Codigo": "3",
+  "Nombre": "Asus"
+},{
+  "_id": {
+    "$oid": "635a8cccaf10dc7bcc4fc43f"
+  },
+  "Codigo": "4",
+  "Nombre": "Dell"
+},{
+  "_id": {
+    "$oid": "635a8ce6af10dc7bcc4fc440"
+  },
+  "Codigo": "5",
+  "Nombre": "ABB"
+},{
+  "_id": {
+    "$oid": "635a8cf8af10dc7bcc4fc441"
+  },
+  "Codigo": "6",
+  "Nombre": "ITT"
+},{
+  "_id": {
+    "$oid": "635a8d11af10dc7bcc4fc442"
+  },
+  "Codigo": "7",
+  "Nombre": "Samsung"
+},{
+  "_id": {
+    "$oid": "635a8d20af10dc7bcc4fc443"
+  },
+  "Codigo": "8",
+  "Nombre": "Sony"
+},{
+  "_id": {
+    "$oid": "635a8d34af10dc7bcc4fc444"
+  },
+  "Codigo": "9",
+  "Nombre": "RTT"
+},{
+  "_id": {
+    "$oid": "635a8d3faf10dc7bcc4fc445"
+  },
+  "Codigo": "10",
+  "Nombre": "HK1"
+}]

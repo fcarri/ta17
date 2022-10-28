@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "635ad5aa44b0ccb4b6f6aaa6"
+  },
+  "DNI": "39100999B"
+},{
+  "_id": {
+    "$oid": "635ad5aa44b0ccb4b6f6aaa7"
+  },
+  "NomApels": "Clint Eastwood"
+},{
+  "_id": {
+    "$oid": "635ad5aa44b0ccb4b6f6aaa8"
+  },
+  "DNIJefe": "39876120A"
+},{
+  "_id": {
+    "$oid": "635ad5aa44b0ccb4b6f6aaa9"
+  },
+  "Despacho": 1
+},{
+  "_id": {
+    "$oid": "635ad5eb44b0ccb4b6f6aaaa"
+  },
+  "DNI": "39134999B"
+},{
+  "_id": {
+    "$oid": "635ad5eb44b0ccb4b6f6aaab"
+  },
+  "NomApels": "John Ford"
+},{
+  "_id": {
+    "$oid": "635ad5eb44b0ccb4b6f6aaac"
+  },
+  "DNIJefe": "39876220A"
+},{
+  "_id": {
+    "$oid": "635ad5eb44b0ccb4b6f6aaad"
+  },
+  "Despacho": 2
+}]

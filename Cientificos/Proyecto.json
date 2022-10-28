@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "635c13095d11c6eb5b07cf67"
+  },
+  "id": "1B"
+},{
+  "_id": {
+    "$oid": "635c13095d11c6eb5b07cf68"
+  },
+  "Nombre": "Banco"
+},{
+  "_id": {
+    "$oid": "635c13095d11c6eb5b07cf69"
+  },
+  "Horas": "12"
+},{
+  "_id": {
+    "$oid": "635c13655d11c6eb5b07cf6a"
+  },
+  "id": "1A"
+},{
+  "_id": {
+    "$oid": "635c13655d11c6eb5b07cf6b"
+  },
+  "Nombre": "Manhatan"
+},{
+  "_id": {
+    "$oid": "635c13655d11c6eb5b07cf6c"
+  },
+  "Horas": "10"
+}]

@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "635ad2ad44b0ccb4b6f6aa9a"
+  },
+  "Codigo": 1
+},{
+  "_id": {
+    "$oid": "635ad2ad44b0ccb4b6f6aa9b"
+  },
+  "Nombre": "A"
+},{
+  "_id": {
+    "$oid": "635ad2ad44b0ccb4b6f6aa9c"
+  },
+  "Pelicula": 1
+},{
+  "_id": {
+    "$oid": "635ad2d444b0ccb4b6f6aa9d"
+  },
+  "Codigo": 2
+},{
+  "_id": {
+    "$oid": "635ad2d444b0ccb4b6f6aa9e"
+  },
+  "Nombre": "B"
+},{
+  "_id": {
+    "$oid": "635ad2d444b0ccb4b6f6aa9f"
+  },
+  "Pelicula": 2
+}]

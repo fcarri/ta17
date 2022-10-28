@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "635c032c5d11c6eb5b07cf47"
+  },
+  "Codigo": 1
+},{
+  "_id": {
+    "$oid": "635c032c5d11c6eb5b07cf48"
+  },
+  "Nombre": "Física"
+},{
+  "_id": {
+    "$oid": "635c03435d11c6eb5b07cf49"
+  },
+  "Codigo": 2
+},{
+  "_id": {
+    "$oid": "635c03435d11c6eb5b07cf4a"
+  },
+  "Nombre": "Quimica"
+}]

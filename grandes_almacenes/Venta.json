@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "635bff8e5d11c6eb5b07cf3d"
+  },
+  "Cajero": 1
+},{
+  "_id": {
+    "$oid": "635bff8e5d11c6eb5b07cf3e"
+  },
+  "Maquina": 1
+},{
+  "_id": {
+    "$oid": "635bff8e5d11c6eb5b07cf3f"
+  },
+  "Producto": 1
+},{
+  "_id": {
+    "$oid": "635bff9f5d11c6eb5b07cf40"
+  },
+  "Cajero": 2
+},{
+  "_id": {
+    "$oid": "635bff9f5d11c6eb5b07cf41"
+  },
+  "Maquina": 2
+},{
+  "_id": {
+    "$oid": "635bff9f5d11c6eb5b07cf42"
+  },
+  "Producto": 2
+}]

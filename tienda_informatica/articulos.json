@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "635a9463af10dc7bcc4fc446"
+  },
+  "Codigo": 1,
+  "Nombre": "drive",
+  "Precio": 100,
+  "Fabricante": 1
+},{
+  "_id": {
+    "$oid": "635a94c0af10dc7bcc4fc447"
+  },
+  "Codigo": 2,
+  "Nombre": "Monitor",
+  "Precio": 100,
+  "Fabricante": 2
+},{
+  "_id": {
+    "$oid": "635a951eaf10dc7bcc4fc448"
+  },
+  "Codigo": 3,
+  "Nombre": "mouse",
+  "Precio": 10,
+  "Fabricante": 3
+},{
+  "_id": {
+    "$oid": "635a9537af10dc7bcc4fc449"
+  },
+  "Codigo": 4,
+  "Nombre": "keyboard",
+  "Precio": 10,
+  "Fabricante": 4
+},{
+  "_id": {
+    "$oid": "635a9685af10dc7bcc4fc44a"
+  },
+  "Codigo": 5,
+  "Nombre": "hard_disk",
+  "Precio": 100,
+  "Fabricante": 5
+},{
+  "_id": {
+    "$oid": "635a96c1af10dc7bcc4fc44b"
+  },
+  "Codigo": 6,
+  "Nombre": "SSD",
+  "Precio": 100,
+  "Fabricante": 6
+},{
+  "_id": {
+    "$oid": "635a97ccaf10dc7bcc4fc44c"
+  },
+  "Codigo": 7,
+  "Nombre": "sound_card",
+  "Precio": 200,
+  "Fabricante": 7
+},{
+  "_id": {
+    "$oid": "635a97e4af10dc7bcc4fc44d"
+  },
+  "Codigo": 8,
+  "Nombre": "video_card",
+  "Precio": 200,
+  "Fabricante": 8
+},{
+  "_id": {
+    "$oid": "635a97f4af10dc7bcc4fc44e"
+  },
+  "Codigo": 9,
+  "Nombre": "network_card",
+  "Precio": 200,
+  "Fabricante": 9
+},{
+  "_id": {
+    "$oid": "635a9807af10dc7bcc4fc44f"
+  },
+  "Codigo": 10,
+  "Nombre": "usb_drive",
+  "Precio": 200,
+  "Fabricante": 10
+}]

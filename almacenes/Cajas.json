@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "635ad17744b0ccb4b6f6aa92"
+  },
+  "NumReferencia": 1
+},{
+  "_id": {
+    "$oid": "635ad17744b0ccb4b6f6aa93"
+  },
+  "Contenido": "AB"
+},{
+  "_id": {
+    "$oid": "635ad17744b0ccb4b6f6aa94"
+  },
+  "Valor": 200
+},{
+  "_id": {
+    "$oid": "635ad17744b0ccb4b6f6aa95"
+  },
+  "Almacen": 1
+},{
+  "_id": {
+    "$oid": "635ad1ac44b0ccb4b6f6aa96"
+  },
+  "NumReferencia": 2
+},{
+  "_id": {
+    "$oid": "635ad1ac44b0ccb4b6f6aa97"
+  },
+  "Contenido": "CD"
+},{
+  "_id": {
+    "$oid": "635ad1ac44b0ccb4b6f6aa98"
+  },
+  "Valor": 100
+},{
+  "_id": {
+    "$oid": "635ad1ac44b0ccb4b6f6aa99"
+  },
+  "Almacen": 2
+}]

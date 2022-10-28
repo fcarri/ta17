@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "635bfed15d11c6eb5b07cf37"
+  },
+  "Codigo": 1
+},{
+  "_id": {
+    "$oid": "635bfed15d11c6eb5b07cf38"
+  },
+  "Nombre": "camisa"
+},{
+  "_id": {
+    "$oid": "635bfed15d11c6eb5b07cf39"
+  },
+  "Precio": 120
+},{
+  "_id": {
+    "$oid": "635bfef65d11c6eb5b07cf3a"
+  },
+  "Codigo": 2
+},{
+  "_id": {
+    "$oid": "635bfef65d11c6eb5b07cf3b"
+  },
+  "Nombre": "abrigo"
+},{
+  "_id": {
+    "$oid": "635bfef65d11c6eb5b07cf3c"
+  },
+  "Precio": 220
+}]
